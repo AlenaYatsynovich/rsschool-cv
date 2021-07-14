@@ -15,3 +15,11 @@ I don’t have many skills and experience now. But my main is to learn. I want t
 - JavaScript (beginner)
 - Visual Studio Code (beginner)
 - Git (beginner)
+## Code examples
+
+```javascript
+function someFunction() {
+  return 4 - 1;
+}
+someFunction();
+```
