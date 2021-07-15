@@ -26,3 +26,7 @@ someFunction();
 ## Experience
 
 I study in _RS School 2021q3_.
+## Education
+
+- _"Bulorussian Institute of Jurisprudence", Minsk, 2002._
+- _Evgeny Popov's Internet courses on HTML and CSS, 2020._
