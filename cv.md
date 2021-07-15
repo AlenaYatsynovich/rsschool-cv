@@ -23,3 +23,6 @@ function someFunction() {
 }
 someFunction();
 ```
+## Experience
+
+I study in _RS School 2021q3_.
